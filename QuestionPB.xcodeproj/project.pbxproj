@@ -14,6 +14,7 @@
 		07575D24250BD15300B3872F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07575D23250BD15300B3872F /* ContentView.swift */; };
 		07575D26250BD15400B3872F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07575D25250BD15400B3872F /* Assets.xcassets */; };
 		07575D29250BD15400B3872F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07575D27250BD15400B3872F /* LaunchScreen.storyboard */; };
+		07575D31250BD24300B3872F /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07575D30250BD24300B3872F /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		07575D25250BD15400B3872F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		07575D28250BD15400B3872F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		07575D2A250BD15400B3872F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07575D30250BD24300B3872F /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				07575D1C250BD15300B3872F /* SceneDelegate.swift */,
 				07575D1E250BD15300B3872F /* ViewController.swift */,
 				07575D20250BD15300B3872F /* Main.storyboard */,
+				07575D30250BD24300B3872F /* Question.swift */,
 				07575D23250BD15300B3872F /* ContentView.swift */,
 				07575D25250BD15400B3872F /* Assets.xcassets */,
 				07575D27250BD15400B3872F /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07575D31250BD24300B3872F /* Question.swift in Sources */,
 				07575D1F250BD15300B3872F /* ViewController.swift in Sources */,
 				07575D1B250BD15300B3872F /* AppDelegate.swift in Sources */,
 				07575D24250BD15300B3872F /* ContentView.swift in Sources */,
